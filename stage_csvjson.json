@@ -1,0 +1,4602 @@
+[
+  {
+    "food": "pear",
+    "weight (g)": 0.26,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.27,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.31,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.3,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.03,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.1,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.18,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.23,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.06,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.23,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.27,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.28,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/12/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.03,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.24,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.14,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.06,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.22,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.01,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.27,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/13/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.31,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.2,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.31,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.28,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.11,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.27,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.28,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.33,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.2,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.32,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.02,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/14/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.04,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.11,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.2,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.26,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.06,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.07,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.31,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.33,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.3,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/15/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.16,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.1,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.26,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.16,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.12,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.3,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.14,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.01,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.33,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.1,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.33,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.11,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.22,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.18,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.13,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.2,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.2,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/16/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.18,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.03,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.03,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.11,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.29,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.04,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.02,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.23,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.12,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.13,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.33,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/17/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.33,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.23,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.16,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.1,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.22,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.04,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.04,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.07,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.24,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.07,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.21,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/18/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.24,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.01,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.06,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.18,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.11,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.09,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.2,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.01,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.02,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.22,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.11,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.22,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.14,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.27,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.04,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.26,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/19/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.3,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.3,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.12,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.23,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.23,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.17,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.11,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.12,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.24,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.3,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.24,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/20/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.12,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.17,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.08,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.22,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.19,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.1,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.11,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.17,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.11,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.21,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.13,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.26,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.07,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.3,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.29,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.06,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.2,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.04,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.14,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.23,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.27,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/21/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.08,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.22,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.04,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.1,
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.2,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.33,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.03,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.31,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.18,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.23,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.3,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": "-",
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.33,
+    "type": "meat",
+    "shift": "day",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "apple",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "left-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.32,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "apple",
+    "weight (g)": 0.02,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.12,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "chicken",
+    "weight (g)": 0.22,
+    "type": "meat",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.16,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.32,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/22/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.29,
+    "type": "meat",
+    "shift": "night",
+    "location": "right-wing",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.31,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.28,
+    "type": "meat",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "orange",
+    "weight (g)": 0.09,
+    "type": "fruits-vegetables",
+    "shift": "night",
+    "location": "center",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": "-",
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "yes"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.01,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "beef",
+    "weight (g)": 0.22,
+    "type": "meat",
+    "shift": "day",
+    "location": "center",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  },
+  {
+    "food": "pear",
+    "weight (g)": 0.26,
+    "type": "fruits-vegetables",
+    "shift": "day",
+    "location": "left-wing",
+    "date": "1/23/2023",
+    "ordered": "Yes",
+    "consumed": "No"
+  }
+]
